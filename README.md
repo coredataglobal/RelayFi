@@ -1,6 +1,10 @@
 # RelayFi
 A 4 Channel smart Relay board based on ESP32.
 
+## Block Details
+
+<img src="https://github.com/coredataglobal/RelayFi/blob/main/Images/RelayFi_Blocks.png" width="500" height="500"/>
+
 ## RelayFi Pinout
 
 | Board Pins  | ESP32-Wroom GPIO Pins |
