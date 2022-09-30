@@ -3,7 +3,7 @@ RelayFi is a 4 channel smart relay board powered by ESP32-WROOM that has the abi
 
 ## Block Details
 
-<img src="https://github.com/coredataglobal/RelayFi/blob/main/Images/RelayFi_Blocks.png" width="500" height="500"/>
+<img src="https://github.com/coredataglobal/RelayFi/blob/main/Images/RelayFi-comp.jpg" width="500" height="500"/>
 
 ## RelayFi Pinout
 
