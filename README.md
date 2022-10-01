@@ -1,4 +1,4 @@
-# RelayFi
+# RelayFi (Still working on repo)
 RelayFi is a 4 channel smart relay board powered by ESP32-WROOM that has the ability to safely control up to 4 appliances or devices on a load of 250 VAC/7A, 30 VDC/10A, and photo-coupling isolation Optocoupler for safety. Users can control their appliances using the third party app on their electronic device thanks to RelayFi.
 
 ## Block Details
