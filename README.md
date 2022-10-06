@@ -17,6 +17,14 @@ RelayFi is a 4 channel smart relay board powered by ESP32-WROOM that has the abi
 | SCL         | IO22  |
 
 ## How to use RelayFi with Arduino Ide?
-Before Starting with RelayFi, You must install ESP32 board in arduino ide, Please follow below tutorial to install the ESP32 Boards in arduino Ide.
+
+* Before Starting with RelayFi, You must install ESP32 board in arduino ide, Please follow below tutorial to install the ESP32 Boards in arduino Ide.
+
 <a href="https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/"> https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/ </a>
+
+* Now navigate to Tools Menu >> Boards >> ESP32 Arduino, and select board as ESP32 Dev Module.
+* Connect board with your PC/Laptop, and select COM port.
+* Make sure the relay selection jumper is connected.
+* Now open Arduino code in Arduino and click on upload button to upload the code to your board. It will automatically upload the code to your RelayFi noard, No need to press the reset button while uploading the code.
+
 
