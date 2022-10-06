@@ -32,4 +32,4 @@ RelayFi is a 4 channel smart relay board powered by ESP32-WROOM that has the abi
 
 ## Tutorials
 
-Setup Tasmota with RelayFi : https://github.com/coredataglobal/RelayFi/wiki/RelayFi-with-Tasmota
+* **Setup Tasmota with RelayFi** : https://github.com/coredataglobal/RelayFi/wiki/RelayFi-with-Tasmota
