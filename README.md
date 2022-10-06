@@ -24,7 +24,7 @@ RelayFi is a 4 channel smart relay board powered by ESP32-WROOM that has the abi
 
 * Now navigate to Tools Menu >> Boards >> ESP32 Arduino, and select board as ESP32 Dev Module.
 
-<ing src="https://hackster.imgix.net/uploads/attachments/1504271/select_board_1xwjExM2jT.png" /> 
+<img src="https://hackster.imgix.net/uploads/attachments/1504271/select_board_1xwjExM2jT.png" /> 
 
 * Connect board with your PC/Laptop, and select COM port.
 * Make sure the relay selection jumper is connected.
