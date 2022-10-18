@@ -16,6 +16,10 @@ RelayFi is a 4 channel smart relay board powered by ESP32-WROOM that has the abi
 | SDA         | IO21  |
 | SCL         | IO22  |
 
+## Connection reference guide for AC appliances
+
+<img src="https://raw.githubusercontent.com/coredataglobal/RelayFi/main/Images/relayfi_with_ac_appliances.png" width="600" height="600" />
+
 ## How to use RelayFi with Arduino Ide?
 
 * Before Starting with RelayFi, You must install ESP32 board in arduino ide, Please follow below tutorial to install the ESP32 Boards in arduino Ide.
