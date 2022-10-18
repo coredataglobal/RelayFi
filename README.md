@@ -18,7 +18,7 @@ RelayFi is a 4 channel smart relay board powered by ESP32-WROOM that has the abi
 
 ## Connection reference guide for AC appliances
 
-<img src="https://raw.githubusercontent.com/coredataglobal/RelayFi/main/Images/relayfi_with_ac_appliances.png" width="600" height="600" />
+<img src="https://raw.githubusercontent.com/coredataglobal/RelayFi/main/Images/relayfi_with_ac_appliances.png" width="800" height="500" />
 
 ## How to use RelayFi with Arduino Ide?
 
